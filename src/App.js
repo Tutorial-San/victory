@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn about Victory Temple here
+          Learn about How to be saved
         </a>
       </header>
     </div>
